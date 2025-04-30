@@ -1,0 +1,32 @@
+body{
+background-color: #5ba2bb;
+font: noral 15pt Arial;
+}
+
+header {
+color: #fff;
+text-align: center;
+}
+
+section {
+background-color: #fff;
+border-radius: 10px;
+padding: 15px;
+width: 500px;
+margin: auto;
+box-shadow: 3px 3px 10px #0000006b;
+}
+
+footer {
+    color: #fff;
+    text-align: center;
+}
+
+footer a {
+    color: #fff;
+    text-decoration: none;
+}
+
+footer a:hover {
+    text-decoration: underline;
+}
